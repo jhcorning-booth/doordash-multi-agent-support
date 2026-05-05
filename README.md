@@ -1,6 +1,6 @@
 # DoorDash Multi-Agent Support System
 
-AI-powered customer support using a multi-agent architecture built on Claude.
+AI-powered customer support using a multi-agent architecture.
 
 ## Architecture
 
